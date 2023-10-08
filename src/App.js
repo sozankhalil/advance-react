@@ -2,6 +2,7 @@
 import './App.css';
 import ControlledForm from './creating form/ControlledForm';
 import Form from './creating form/Form';
+import App1 from './lab-form/App1';
 import Lab1 from './lab1/Lab1';
 
 function App() {
@@ -23,9 +24,10 @@ function App() {
   console.log({newDesserts})
   return (
     <>
-     <Lab1/>
+     {/* <Lab1/>
      <Form/>
-     <ControlledForm/>
+     <ControlledForm/> */}
+     <App1/>
     </>
   );
 }
