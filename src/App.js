@@ -6,6 +6,7 @@ import Form from './creating form/Form';
 import App1 from './lab-form/App1';
 import Lab1 from './lab1/Lab1';
 import App4 from './little-lemon-goal-app/App4';
+import Excercise from './useState lab excercise/Excercise';
 
 function App() {
   const desserts = [
@@ -31,7 +32,7 @@ function App() {
      <ControlledForm/> */}
      {/* <App1/> */}
 <App4/>
-  
+  <Excercise/>
     </>
   );
 }
