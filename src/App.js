@@ -1,9 +1,12 @@
 
 import './App.css';
+import App15 from './Radio/App15';
+import LiveOrders from './childrenDynamically/App13';
 import { App2} from './context/App2';
 import ControlledForm from './creating form/ControlledForm';
 import Form from './creating form/Form';
 import App10 from './custom hook/App10';
+import App12 from './jsxComponentAndElement/App12';
 import App1 from './lab-form/App1';
 import Lab1 from './lab1/Lab1';
 import App4 from './little-lemon-goal-app/App4';
@@ -41,6 +44,9 @@ function App() {
   <App6/>
   <App8/>
   <App10/>
+  <App12/>
+  <LiveOrders/>
+  <App15/>
     </>
   );
 }
