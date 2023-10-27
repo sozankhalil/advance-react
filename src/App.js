@@ -10,6 +10,7 @@ import App12 from './jsxComponentAndElement/App12';
 import App1 from './lab-form/App1';
 import Lab1 from './lab1/Lab1';
 import App4 from './little-lemon-goal-app/App4';
+import App17 from './render props/App17';
 import Test from './useEffect/Test';
 import App6 from './useEffectLab/UseEffect';
 import App8 from './useReducer/App8';
@@ -47,6 +48,7 @@ function App() {
   <App12/>
   <LiveOrders/>
   <App15/>
+  <App17/>
     </>
   );
 }
