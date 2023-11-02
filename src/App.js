@@ -6,6 +6,7 @@ import { App2} from './context/App2';
 import ControlledForm from './creating form/ControlledForm';
 import Form from './creating form/Form';
 import App10 from './custom hook/App10';
+import App18 from './formTest/App18';
 import App12 from './jsxComponentAndElement/App12';
 import App1 from './lab-form/App1';
 import Lab1 from './lab1/Lab1';
@@ -49,6 +50,7 @@ function App() {
   <LiveOrders/>
   <App15/>
   <App17/>
+  <App18/>
     </>
   );
 }
